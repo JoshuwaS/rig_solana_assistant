@@ -1,0 +1,12 @@
+# Rust specific
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Environment variables
+.env
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
